@@ -24,4 +24,3 @@
 ![](../images/Aadhaarと最高裁判決の概要.png)
 
 ![](../images/Aadhaarと最高裁判決の詳細.png)
-		
