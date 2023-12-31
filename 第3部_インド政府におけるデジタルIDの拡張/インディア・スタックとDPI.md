@@ -21,13 +21,13 @@
 #### レイヤー1:Identity
 ![](../images/IndiaStack-レイヤー1Identity.PNG)
 
-#### レイヤー1:Identity図
+- Identity図
 ![](../images/IndiaStack-レイヤー1Identity図.PNG)
 
-#### レイヤー1:Identity-AUA利用機関-Top10
+- IdentityにおけるAUA利用機関-Top10
 ![](../images/IndiaStack-レイヤー1Identity-AUA利用機関-Top10.PNG)
 
-#### レイヤー1:Identity-eKYC-Top10
+- IdentityにおけるeKYC-Top10
 ![](../images/IndiaStack-レイヤー1Identity-eKYC-Top10.PNG)
 
 #### レイヤー2:Payments
@@ -36,19 +36,19 @@
 #### レイヤー3:Data
 ![](../images/IndiaStack-レイヤー3Data.png)
 
-#### レイヤー3:DigiLocker発行書類トップ１０
+- DigiLocker発行書類トップ１０
 ![](../images/IndiaStack-レイヤー3Data-DigiLocker-Top10.png)
 
-#### レイヤー3:Data 個人データを本人の同意のもと、プライバシーに配慮しつつ安全に第三者と共有するための基本方針
+#### 個人データを本人の同意のもと、プライバシーに配慮しつつ安全に第三者と共有するための基本方針
 ![](../images/IndiaStack-レイヤー3Data-プライバシーの配慮（DEPA）.png)
 
-#### レイヤー3:Data DEPA図（Consent Manager）
+- Data DEPA図（Consent Manager）
 ![](../images/IndiaStack-レイヤー3Data-DEPA図.png)
 
-#### レイヤー3:Data AccountAggregatorの活用方法
+- AccountAggregatorの活用方法
 ![](../images/IndiaStack-レイヤー3Data-AccountAggregatorの活用.png)
 
-#### レイヤー3:Data DEPA分野ごとに運用
+- DEPA分野ごとに運用
 ![](../images/IndiaStack-レイヤー3Data-DEPA分野ごとに運用.png)
 
 #### インドにおけるデジタル公共インフラの範囲
