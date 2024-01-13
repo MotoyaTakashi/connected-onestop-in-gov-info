@@ -9,11 +9,17 @@
 
 の3本柱からなり、それぞれで複数の機能が開発されている。
 
+<div style="page-break-after: always;"></div>
+
 ![](../images/IndiaStackを構成する主なAPI.png)
+
+<div style="page-break-after: always;"></div>
 
 主なものは図表の通りである。
 
 ![](../images/IndiaStack諸機能.png)
+
+<div style="page-break-after: always;"></div>
 
 同意アーティファクトのAPIは、このうちの②の「データの管理と活用」に入る。
 インディアスタックのそれぞれの機能は、特定の中央省庁・行政組織が、民間ボランティア組織、iSPIRT（Indian Software Product Industry Roundtable）の協力を得ながら開発している。他の中央省庁や州政府を含む行政組織、さらに民間企業は、諸機能のなかから活用したいものがあると、そのAPIを利用し、当該機能を自組織のアプリケーションと連携をすることができる。
@@ -23,11 +29,19 @@
 州政府がインディアスタックを具体的にどのように活用しているかについて、クラウドストレージであるDigiLockerを例に挙げる。
 DigiLockerは、アドハーに登録済みの個々人に提供される、いわば電子的なロッカーであり、そのなかで正式文書の作成、保管、授受を行うことができる。
 
+<div style="page-break-after: always;"></div>
+
 ![](../images/IndiaStack-DigiLocker-Top10.png)
+
+<div style="page-break-after: always;"></div>
 
 中央政府が提供し、その利用を他の省庁や州政府に呼び掛けている。例えば、その呼びかけに応じたパンジャーブ州では、州政府の各部局、公的企業、大学、その他教育機関などがDigiLockerに対応し、現在は70種類以上の書類がDigiLockerで電子的に発行可能となっている。
 
+<div style="page-break-after: always;"></div>
+
 ![](../images/州政府-DigiLockerの活用1.png)
+
+<div style="page-break-after: always;"></div>
 
 それにより同州の住民は、高校の卒業証明書を大学に提出するのにDigiLocker経由で電子的に行うことができ、また、運転免許証をDigiLocker内に保管できるため運転時に現物を携行する必要がない。電気料金の請求書もDigiLocker経由で受け取り可能である。
 
