@@ -7,7 +7,7 @@
 - <B>市民が出生から学齢期までのライフイベントごとに必要な情報やサービスを享受できる</B>
 - <B>子育てを社会全体で支える仕組みをつくっていく</B>
   
-![](../../images/sam03_子育て.png)
+![](../../images/sam031.png)
 
 <div style="page-break-after: always;"></div>
 
