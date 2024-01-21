@@ -9,7 +9,7 @@
 
 <div style="page-break-after: always;"></div>
 
-![](../images/インドの海外展開.png)
+![](../../images/インドの海外展開.png)
 
 <div style="page-break-after: always;"></div>
 
@@ -32,6 +32,6 @@ MOSIPのプログラムでは、各国政府に対しデジタルIDのインフ�
 
 アドハーの登録間違いもまだ散見される。以下の調査結果からは、2010年から9年間取り組んできた状況が見られる。
 
-![](../images/Aadhaarに関するアンケート調査結果.png)
+![](../../images/Aadhaarに関するアンケート調査結果.png)
 
-![](../images/Aadhaarに関するアンケート調査結果2.png)
+![](../../images/Aadhaarに関するアンケート調査結果2.png)

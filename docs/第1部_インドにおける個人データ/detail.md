@@ -2,26 +2,26 @@
 
 インドにおける個人識別番号、アドハーは全住民を対象とする12桁の固有番号である。
 
-![](../images/Aadhaar.png)
+![](../../images/Aadhaar.png)
 
 それ以前に住民誰もが保有可能、かつ信頼性の高い本人確認の手段が存在しなかったこともあり、取得は任意であるにもかかわらず、いまや人口の9割以上がアドハーに登録済みである。
 <br>
 アドハーは2010年の導入当初から多方面で批判を受け、2012年には憲法が保証するプライバシーを阻害するとして最高裁への申し立てが行われた。そこから最高裁判決が下りる2018年まで、アドハーのような個人データをどのように扱うべきかについて、司法を含め多様な場で議論が繰り広げられた。
 最高裁判決では、アドハーがプライバシーの侵害に当たらず合憲であると認められる一方で、民間企業が本人確認のためにアドハーを用いてはならないとされた。
 
-![](../images/Aadhaarと最高裁.png)
+![](../../images/Aadhaarと最高裁.png)
 
 <div style="page-break-after: always;"></div>
 
-![](../images/Aadhaarと最高裁判決の概要.png)
+![](../../images/Aadhaarと最高裁判決の概要.png)
 
-![](../images/Aadhaarと最高裁判決の詳細.png)
+![](../../images/Aadhaarと最高裁判決の詳細.png)
 
 <div style="page-break-after: always;"></div>
 
 そこで、政府主導でアドハー法が改正され（2019年）、政府の認可を得られた組織であれば、本人の同意のもとでアドハーによる本人確認を可能とした。
 
-![](../images/Aadhaarと最高裁改正ポイント.png)
+![](../../images/Aadhaarと最高裁改正ポイント.png)
 
 <div style="page-break-after: always;"></div>
 
@@ -31,7 +31,7 @@
 
 <div style="page-break-after: always;"></div>
 
-![](../images/インド政府の基本姿勢0.PNG)
+![](../../images/インド政府の基本姿勢0.PNG)
 
 <div style="page-break-after: always;"></div>
 

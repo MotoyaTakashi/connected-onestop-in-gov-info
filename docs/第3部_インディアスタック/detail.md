@@ -11,13 +11,13 @@
 
 <div style="page-break-after: always;"></div>
 
-![](../images/IndiaStackを構成する主なAPI.png)
+![](../../images/IndiaStackを構成する主なAPI.png)
 
 <div style="page-break-after: always;"></div>
 
 主なものは図表の通りである。
 
-![](../images/IndiaStack諸機能.png)
+![](../../images/IndiaStack諸機能.png)
 
 <div style="page-break-after: always;"></div>
 
@@ -31,7 +31,7 @@ DigiLockerは、アドハーに登録済みの個々人に提供される、い�
 
 <div style="page-break-after: always;"></div>
 
-![](../images/IndiaStack-DigiLocker-Top10.png)
+![](../../images/IndiaStack-DigiLocker-Top10.png)
 
 <div style="page-break-after: always;"></div>
 
@@ -39,10 +39,10 @@ DigiLockerは、アドハーに登録済みの個々人に提供される、い�
 
 <div style="page-break-after: always;"></div>
 
-![](../images/州政府-DigiLockerの活用1.png)
+![](../../images/州政府-DigiLockerの活用1.png)
 
 <div style="page-break-after: always;"></div>
 
 それにより同州の住民は、高校の卒業証明書を大学に提出するのにDigiLocker経由で電子的に行うことができ、また、運転免許証をDigiLocker内に保管できるため運転時に現物を携行する必要がない。電気料金の請求書もDigiLocker経由で受け取り可能である。
 
-![](../images/州政府-DigiLockerの活用2.png)
+![](../../images/州政府-DigiLockerの活用2.png)

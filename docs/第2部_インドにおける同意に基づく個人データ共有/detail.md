@@ -5,7 +5,7 @@
 
 <div style="page-break-after: always;"></div>
 
-![](../images/IndiaStack-レイヤー3Data-DEPA図.png)
+![](../../images/IndiaStack-レイヤー3Data-DEPA図.png)
 
 <div style="page-break-after: always;"></div>
 
@@ -18,14 +18,14 @@
 
 <div style="page-break-after: always;"></div>
 
-![](../images/IndiaStack-レイヤー3Data-DEPA分野ごとに運用.png)
+![](../../images/IndiaStack-レイヤー3Data-DEPA分野ごとに運用.png)
 
 <div style="page-break-after: always;"></div>
 
 しかし、単一の基盤は人口130万人のエストニアでは機能しても、多様性が著しい人口14億人のインドでは機能しづらいとの判断から、インド政府はこれとは異なる独自の仕組みを採用した。
 この仕組みの運用第１号として選定されたのが金融分野であり、すでに実装されている。
 
-![](../images/IndiaStack-レイヤー3Data-AccountAggregatorの活用.png)
+![](../../images/IndiaStack-レイヤー3Data-AccountAggregatorの活用.png)
 
 <div style="page-break-after: always;"></div>
 
